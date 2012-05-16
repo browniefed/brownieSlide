@@ -1,3 +1,19 @@
+/**
+ *  brownieSlide 0.1
+ *  by @browniefed
+ *
+ *  Licensed under WTFPL
+
+ *  HTML:	<div id="slider">
+ *				<ul>
+ *				</ul>
+ *			</div>
+ *
+ *  CSS:	Provided in brownieslide.css
+ *
+ *	Basic JS:     $('#slider').brownieSlide();
+ *
+ */
 (function ($, d, undefined) {
 
 	$.fn.brownieSlide = function (options) {
