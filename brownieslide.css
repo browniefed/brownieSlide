@@ -1,0 +1,19 @@
+.brownieslide{
+	overflow:hidden;
+}
+.brownieslide ul{
+	position:relative;
+	margin:0;
+	padding:0;
+}
+.brownieslide li {
+	float:left;
+}
+
+section {
+	width:1024px;
+	height:768px
+}
+p.arrows {
+
+]
